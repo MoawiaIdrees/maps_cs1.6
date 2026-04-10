@@ -1,0 +1,11 @@
+Desert - Bomb/Defuse
+by =tObI= (f234k@arcor.de)
+
+Counter-Terrorists: Prevent terrorists
+from bombing the radio stations.
+
+Terrorists: The terrorist carrying the
+C4 must destroy one of the radio stations.
+
+Other Notes: There are 2 bomb targets
+in the mission.
